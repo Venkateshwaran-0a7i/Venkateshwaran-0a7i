@@ -1,8 +1,14 @@
-<h1 align="center">Hi, I'm Venkateshwaran Mani 👋</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
+
 <p align="center">
-  <b>Data Scientist | Data Engineer | AI & ML Enthusiast</b><br/>
+  <b>I'm Venkateshwaran Mani</b><br/>
+  Data Scientist | Data Engineer | AI & ML Enthusiast<br/>
   I build end-to-end data solutions — from <b>EDA & feature engineering</b> to <b>ML pipelines</b>, <b>dashboards</b>, and <b>API deployment</b>.
 </p>
+
+---
+
+## 🌐 Quick Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkateshwaran-m-a3b2b23a3/" target="_blank">
@@ -14,73 +20,81 @@
   <a href="https://github.com/Venkateshwaran-0a7i" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://venkateshwaran-0a7i.github.io/Venkateshwaran_Mani_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6f42c1?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 What I Do
-- Build ML models for classification, prediction, and analytics use-cases  
-- Create clean datasets using **EDA, preprocessing, feature engineering**  
-- Design dashboards and KPIs using **Power BI / Tableau**  
-- Deploy ML models using **FastAPI / Flask**  
+## 🚀 Tech Stack
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="python" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgres" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=azure" height="55" alt="azure" />
+</div>
 
-## 🧠 Core Skills
-**Machine Learning:** Supervised/Unsupervised Learning, Model Evaluation, Hyperparameter Tuning  
-**Deep Learning:** CNN, RNN, LSTM, TensorFlow, Keras  
-**Data Engineering:** ETL Concepts, API Integration, Workflow Automation (Airflow - basic)  
-**Analytics:** Power BI, Tableau, Excel, KPI Dashboards, Data Storytelling  
-**Programming:** Python, SQL, NoSQL, Git/GitHub  
-
----
-
-## 🛠️ Tech Stack
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="45" alt="tensorflow"/>
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="45" alt="pytorch"/>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="scikit-learn"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45" alt="pandas"/>
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" alt="seaborn"/>
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="45" alt="opencv"/>
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" alt="postman"/>
 </p>
 
 ---
 
-## 📌 Featured Projects (Add your repo links here)
-### 🧪 Semiconductor Yield Prediction
-- Classification models for predicting semiconductor production outcomes  
-- Feature engineering + PCA + GridSearchCV  
-- Model validation and performance improvement  
-🔗 Repo: **(Add link)**
-
-### 📏 Anthropometric Data Analysis
-- Data cleaning + analysis using NumPy & Pandas  
-- BMI trend visualization + correlation analysis  
-🔗 Repo: **(Add link)**
-
-### 🤖 NLP Chatbot (Recommended)
-- Intent classification + dialog flow  
-- API-based deployment using FastAPI  
-🔗 Repo: **(Add link)**
+## 🧠 What I’m Working On
+- Building ML projects with real-world datasets  
+- Improving skills in **Data Engineering (ETL, APIs, pipelines)**  
+- Creating dashboards using **Power BI / Tableau**  
+- Learning production practices (**deployment + automation**)  
 
 ---
 
-## 💼 Experience
-**Data Science Intern — Corizo Edutech / Wipro DICE** *(Feb 2025 – Mar 2025)*  
-- Improved model accuracy by **20%** with tuning & feature selection  
+
+## 💼 Internship Experience
+**Data Science Intern — Corizo Edutech / Wipro DICE (Feb 2025 – Mar 2025)**  
+- Improved ML model accuracy by **20%** using tuning & feature selection  
 - Built Power BI dashboards reducing analysis time by **30%**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkateshwaran-0a7i&show_icons=true&hide_title=true" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkateshwaran-0a7i&layout=compact" height="150" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Venkateshwaran-0a7i&mode=daily&hide_border=false&border_radius=6" height="150" alt="streak graph" />
+</div>
 
 ---
 
 ## 📫 Contact
 📧 Email: **venkateshwaran0720@gmail.com**  
 💼 LinkedIn: **https://www.linkedin.com/in/venkateshwaran-m-a3b2b23a3/**  
-💻 GitHub: **https://github.com/Venkateshwaran-0a7i**
+🌐 Portfolio: **https://venkateshwaran-0a7i.github.io/Venkateshwaran_Mani_Portfolio/**  
 
----
 ⭐ If you find my work useful, feel free to follow and connect.
