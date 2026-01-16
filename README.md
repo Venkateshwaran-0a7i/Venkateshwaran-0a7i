@@ -6,6 +6,8 @@ I build end-to-end data solutions — from **data cleaning + EDA** to **machine 
 My focus is on turning raw data into **actionable insights** and production-ready ML systems.
 
 ---
+🚀 Languages and Tools I Use
+python pytorch tensorflow pandas seaborn opencv scikit_learn mongodb postgresql docker flask figma git linux postman django azure
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/venkateshwaran-m-a3b2b23a3/
