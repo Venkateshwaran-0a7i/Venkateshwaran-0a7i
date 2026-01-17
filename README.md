@@ -67,15 +67,14 @@
 ---
 
 
-<h3 align="left">🔥 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Venkateshwaran-0a7i&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Venkateshwaran-0a7i&layout=compact&theme=dark&hide_border=true" height="150" />
-</div>
+## 📌 Featured Work
+⭐ Check my repositories:  
+➡️ https://github.com/Venkateshwaran-0a7i?tab=repositories
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Venkateshwaran-0a7i&theme=dark&hide_border=true" height="150" />
-</div>
+## 📈 Highlights
+- AI/ML Projects (Classification, NLP, Deep Learning)
+- Data Engineering basics (ETL, APIs, Automation)
+- Dashboards (Power BI / Tableau)
 
 ---
 
