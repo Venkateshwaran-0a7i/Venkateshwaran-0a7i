@@ -68,11 +68,10 @@
 
 
 <h3 align="left">🔥 GitHub Stats</h3>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venkateshwaran-0a7i&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkateshwaran-0a7i&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkateshwaran-0a7i&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" height="150" />
 </div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Venkateshwaran-0a7i&theme=dark&hide_border=true" height="150" alt="streak graph" />
