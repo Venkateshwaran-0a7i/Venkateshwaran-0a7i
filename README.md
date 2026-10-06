@@ -12,25 +12,15 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🟢 About
+<img src="assets/sec-about.svg" width="100%" alt="About" />
 
 AI R&D engineer at **Cavin Infotech**, working where data, engineering and business outcomes meet. I build Generative AI apps, AI agents and RAG systems, backed by clean Python pipelines and containerized deployments.
 
 📍 Madurai, Tamil Nadu, India
 
-<div align="center">
+<img src="assets/stats.svg" width="100%" alt="30% less reporting time, 20% accuracy gain, 82% B.Tech aggregate" />
 
-| 🔴 30% | ⚪ 20% | 🟢 82% |
-|:---:|:---:|:---:|
-| less manual reporting | model accuracy gain | B.Tech aggregate |
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🔴 Currently
+<img src="assets/sec-now.svg" width="100%" alt="Currently" />
 
 ```text
 building   →  LLM apps, AI agents (LangChain), RAG pipelines
@@ -38,44 +28,37 @@ learning   →  production AI architecture, FastAPI, agentic workflows
 open to    →  AI / GenAI engineering roles and R&D collaborations
 ```
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/sec-work.svg" width="100%" alt="Featured work" />
 
-## ⚪ Featured Work
+<table>
+<tr>
+<td><a href="https://github.com/Venkateshwaran-0a7i/Wallet-Scholer"><img src="assets/card-1.svg" width="440" alt="Wallet Scholer" /></a></td>
+<td><a href="https://github.com/Venkateshwaran-0a7i"><img src="assets/card-2.svg" width="440" alt="Customer Ops Chatbot" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Venkateshwaran-0a7i"><img src="assets/card-3.svg" width="440" alt="Power BI Automation" /></a></td>
+<td><a href="https://github.com/Venkateshwaran-0a7i"><img src="assets/card-4.svg" width="440" alt="Semiconductor Yield" /></a></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="assets/card-5.svg" width="440" alt="Anthropometric Analysis" /></td>
+</tr>
+</table>
 
-| Project | Stack | What it does |
-|:--|:--|:--|
-| 💰 [**Wallet Scholer**](https://github.com/Venkateshwaran-0a7i/Wallet-Scholer) | Python · Web app | Personal finance tracking and budgeting |
-| 🤖 [**Customer Ops Chatbot**](https://github.com/Venkateshwaran-0a7i) | Flask · TF-IDF · Docker | Intent-based query automation |
-| 📊 [**Power BI Automation**](https://github.com/Venkateshwaran-0a7i) | Power BI · DAX | KPI dashboards, 30% less reporting effort |
-| 🏭 [**Semiconductor Yield**](https://github.com/Venkateshwaran-0a7i) | Scikit-learn · PCA · GridSearchCV | Manufacturing yield prediction |
-| 📐 **Anthropometric Analysis** | Pandas · EDA | BMI trends and correlations |
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🟢 Tech Stack
+<img src="assets/sec-stack.svg" width="100%" alt="Tech stack" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,docker,postgres,mongodb,gcp,git,linux&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,docker,postgres,mongodb,gcp,git,linux&theme=dark" alt="Tech icons" />
+
+<img src="assets/stack.svg" width="100%" alt="Skills by category" />
 
 </div>
 
-`LangChain` `RAG` `LLMs` `AI Agents` `NLP` `CNN / LSTM` `Transformers` `Power BI` `DAX` `ETL` `SQL` `R`
+<img src="assets/sec-exp.svg" width="100%" alt="Experience" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/timeline.svg" width="100%" alt="Experience and education timeline" />
 
-## 🔴 Experience
-
-| When | Role | Where |
-|:--|:--|:--|
-| Jun 2026 – now | **AI R&D Engineer** | Cavin Infotech, Chennai |
-| Mar – Apr 2026 | AI Intern | Codec Technologies India |
-| Dec 2025 | Data Science Simulation | Forage (Lloyds Banking Group) |
-| Feb – May 2025 | Data Science, Finance & HR Intern | Corizo Edutech |
-
-🎓 B.Tech, Artificial Intelligence & Data Science · Bharath Niketan College of Engineering · 2022 – 2026
-
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/sec-github.svg" width="100%" alt="GitHub" />
 
 <div align="center">
 

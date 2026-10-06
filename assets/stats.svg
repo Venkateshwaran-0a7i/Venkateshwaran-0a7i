@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130"><defs>
+<linearGradient id="pg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0"><stop offset="0" stop-color="#ef4444"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+<filter id="gl" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs><rect x="10" y="6" width="280" height="118" rx="14" fill="#0e0e0e" stroke="#ef4444" stroke-opacity=".35"><animate attributeName="stroke-opacity" values=".2;.7;.2" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect>
+<circle cx="72" cy="65" r="34" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="8"/>
+<circle cx="72" cy="65" r="34" fill="none" stroke="#ef4444" stroke-width="8" stroke-linecap="round" stroke-dasharray="213.6" stroke-dashoffset="213.6" transform="rotate(-90 72 65)" filter="url(#gl)"><animate attributeName="stroke-dashoffset" values="213.6;149.5;149.5;213.6" keyTimes="0;.35;.9;1" dur="6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="72" y="72" text-anchor="middle" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">30%</text>
+<text x="122" y="58" fill="#ef4444" font-family="Courier New, monospace" font-size="12" letter-spacing="1.5">LESS REPORTING TIME</text>
+<text x="122" y="80" fill="#fff" fill-opacity=".65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Power BI automation</text><rect x="310" y="6" width="280" height="118" rx="14" fill="#0e0e0e" stroke="#ffffff" stroke-opacity=".35"><animate attributeName="stroke-opacity" values=".2;.7;.2" dur="3s" begin="0.5s" repeatCount="indefinite"/></rect>
+<circle cx="372" cy="65" r="34" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="8"/>
+<circle cx="372" cy="65" r="34" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-dasharray="213.6" stroke-dashoffset="213.6" transform="rotate(-90 372 65)" filter="url(#gl)"><animate attributeName="stroke-dashoffset" values="213.6;170.9;170.9;213.6" keyTimes="0;.35;.9;1" dur="6s" begin="0.4s" repeatCount="indefinite"/></circle>
+<text x="372" y="72" text-anchor="middle" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">20%</text>
+<text x="422" y="58" fill="#ffffff" font-family="Courier New, monospace" font-size="12" letter-spacing="1.5">ACCURACY GAIN</text>
+<text x="422" y="80" fill="#fff" fill-opacity=".65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">feature engineering</text><rect x="610" y="6" width="280" height="118" rx="14" fill="#0e0e0e" stroke="#22c55e" stroke-opacity=".35"><animate attributeName="stroke-opacity" values=".2;.7;.2" dur="3s" begin="1.0s" repeatCount="indefinite"/></rect>
+<circle cx="672" cy="65" r="34" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="8"/>
+<circle cx="672" cy="65" r="34" fill="none" stroke="#22c55e" stroke-width="8" stroke-linecap="round" stroke-dasharray="213.6" stroke-dashoffset="213.6" transform="rotate(-90 672 65)" filter="url(#gl)"><animate attributeName="stroke-dashoffset" values="213.6;38.5;38.5;213.6" keyTimes="0;.35;.9;1" dur="6s" begin="0.8s" repeatCount="indefinite"/></circle>
+<text x="672" y="72" text-anchor="middle" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">82%</text>
+<text x="722" y="58" fill="#22c55e" font-family="Courier New, monospace" font-size="12" letter-spacing="1.5">B.TECH AGGREGATE</text>
+<text x="722" y="80" fill="#fff" fill-opacity=".65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">AI &amp; Data Science</text></svg>

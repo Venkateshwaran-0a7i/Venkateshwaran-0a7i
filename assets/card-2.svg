@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="120" viewBox="0 0 440 120"><defs>
+<linearGradient id="pg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0"><stop offset="0" stop-color="#ef4444"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+<filter id="gl" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs><defs><clipPath id="c"><rect x="2" y="2" width="436" height="116" rx="14"/></clipPath><linearGradient id="sw"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#ef4444" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect x="2" y="2" width="436" height="116" rx="14" fill="#0e0e0e" stroke="#ef4444" stroke-opacity=".4"><animate attributeName="stroke-opacity" values=".25;.85;.25" dur="3s" begin="0.6s" repeatCount="indefinite"/></rect>
+<g clip-path="url(#c)"><rect x="-120" y="0" width="120" height="120" fill="url(#sw)"><animate attributeName="x" values="-120;440" dur="4.5s" begin="0.7s" repeatCount="indefinite"/></rect><rect x="2" y="2" width="5" height="116" fill="#ef4444"/></g>
+<circle cx="52" cy="60" r="22" fill="#0f0f0f" stroke="#ef4444" stroke-opacity=".6" stroke-width="1.5"/>
+<circle cx="52" cy="60" r="22" fill="none" stroke="#ef4444" stroke-width="2"><animate attributeName="r" values="22;32" dur="2.2s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></circle><g transform="translate(52,60)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="-10" y="-8" width="20" height="13" rx="3"/><path d="M-3 5L-6 10L2 5"/><circle cx="-4" cy="-2" r="1.3"/><circle cx="4" cy="-2" r="1.3"/></g>
+<text x="96" y="42" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">Customer Ops Chatbot</text>
+<text x="96" y="62" fill="#ef4444" font-family="Courier New, monospace" font-size="12">Flask · TF-IDF · Docker</text>
+<text x="96" y="84" fill="#fff" fill-opacity=".7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Intent-based query</text>
+<text x="96" y="102" fill="#fff" fill-opacity=".7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">automation</text></svg>

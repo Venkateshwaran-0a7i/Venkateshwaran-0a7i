@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="68" viewBox="0 0 900 68"><defs>
+<linearGradient id="pg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0"><stop offset="0" stop-color="#ef4444"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+<filter id="gl" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs><rect width="900" height="68" fill="none"/><circle cx="36" cy="32" r="22" fill="#0f0f0f" stroke="#22c55e" stroke-opacity=".6" stroke-width="1.5"/>
+<circle cx="36" cy="32" r="22" fill="none" stroke="#22c55e" stroke-width="2"><animate attributeName="r" values="22;32" dur="2.2s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.2s" begin="0s" repeatCount="indefinite"/></circle><g transform="translate(36,32)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 -10L10 -4L0 2L-10 -4Z"/><path d="M-10 1L0 7L10 1"/><path d="M-10 6L0 12L10 6"/></g>
+<text x="76" y="33" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="2">TECH STACK</text>
+<text x="76" y="52" fill="#22c55e" font-family="Courier New, monospace" font-size="12" letter-spacing="3">// tools i use</text>
+<path d="M0 64H900" stroke="#fff" stroke-opacity=".1" stroke-width="2"/>
+<path d="M0 64H900" pathLength="1000" stroke="url(#pg)" stroke-width="2.5" stroke-dasharray="120 880" filter="url(#gl)"><animate attributeName="stroke-dashoffset" values="120;-880" dur="3.4s" repeatCount="indefinite"/></path></svg>
